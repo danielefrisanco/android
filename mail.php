@@ -1,5 +1,5 @@
 <?php
- mail("ottoct@gmail.com" ,"sepol","eeeeeeeeeeeeeeee");
+ mail(" @gmail.com" ,"sepol","eeeeeeeeeeeeeeee");
      	
 
 
