@@ -29,7 +29,7 @@ if(mysqli_query($con,"INSERT INTO users (Username, PasswordEncrypted, email,salt
 /*	mail($email,'Conferma registrazione APP','Ciao '.$username.' clicca <a href="http://10.0.015/ANDROIDconnect1/confermaregistrazione.php?confirmed='$confirmed'&username='$username'&email='$email'">qui</a> per confermare la registrazione all''app'
 )/*,
 		"From: webmaster@{$_SERVER['SERVER_NAME']}\r\n" .
-     		"Reply-To: ottoct@gmail.com\r\n" .
+     		"Reply-To:  @gmail.com\r\n" .
      		"X-Mailer: PHP/" . phpversion()); 
 */ 
 }
